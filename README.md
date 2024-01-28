@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning on new skills in web development and cybersecurity
 - 💞️ I’m looking to collaborate on any open source or private projects in the fields I mentioned above
 - 📫 How to reach me  georgenathan010@gmail.com
-- 😄 Pronouns: He/HIm
+- 😄 Pronouns: He/Him
 - ⚡ Fun fact: I love God
 
 <!---
