@@ -8,10 +8,17 @@ I'm an adaptable software engineer with extensive experience in full-stack devel
 - 📫 How to reach me: [georgenathan010@gmail.com](mailto:georgenathan010@gmail.com)
 - 🔗 [LinkedIn](https://www.linkedin.com/in/nathan-george-mi) | [Portfolio](https://nathami-porfolio.netlify.app)
 
+  ##Fun facts about me
+  - I love God and trust in Him alone (Proverbs 3:5)
+  - I devour a lot of literature, both scientific and religious
+  - I work because I trust that it is for a greater purpose both to man and the Almighty
+  - I write, poems for that matter!
+
 ## 🛠 Skills & Technologies
 
-- **Languages & Frameworks:** JavaScript, TypeScript, React, Node.js, Express, HTML5, CSS3, Django, Solidity, Java, C/C++, Kotlin
-- **Tools & Technologies:** Firebase, Prisma ORM, Next.js, React Native, Expo, TailwindCSS, MongoDB, PostgreSQL, NeonDB, MySQL, NextAuth
+- **Languages & Frameworks:** JavaScript, TypeScript, React, Node.js, Express, HTML5, CSS3, Django, Solidity, Java, C/C++, Kotlin, Python,Php, Dart and still learning more!
+- **Tools & Technologies:** Firebase, Prisma ORM, Next.js, React Native, Expo, TailwindCSS, MongoDB, PostgreSQL, NeonDB, MySQL, NextAuth, Material Tailwind, VueJs, Laravel, appwrite, Spring, Spring Boot
+- **Currently Learning:** Data science/wrangling using python, cyberSecurity and Networking
 - **Design Tools:** Figma, Canva
 - **Other Skills:** WebSockets, DOM manipulation, RESTful APIs, Networking basics (Access point configuration, radio/router management)
 
@@ -20,7 +27,6 @@ I'm an adaptable software engineer with extensive experience in full-stack devel
 - **Dokta:** A doctor booking and freelance application using Next.js, React, Prisma ORM, MongoDB, and NextAuth. [Link](https://dokta.vercel.app)
 - **NateLog:** A blogging platform with user authentication and content management using Next.js, React, TailwindCSS, and Prisma ORM. [Link](https://codsoft-ruddy-five.vercel.app)
 - **Serah Ke:** A personal portfolio with a custom video player using React and Redux. [Link](https://serahkemusic.co.ke)
-- **CarGo:** A car dealership application utilizing RapidAPI and React. [Link](https://car-go-six.vercel.app)
 - **YouPlay:** A video player application mimicking YouTube using the YouTube v3 API and React. [Link](https://nathan-youtube-clone.vercel.app)
 
 ## 📫 Let's Connect!
