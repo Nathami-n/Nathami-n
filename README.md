@@ -8,7 +8,7 @@ I'm an adaptable software engineer with extensive experience in full-stack devel
 - 📫 How to reach me: [georgenathan010@gmail.com](mailto:georgenathan010@gmail.com)
 - 🔗 [LinkedIn](https://www.linkedin.com/in/nathan-george-mi) | [Portfolio](https://nathami-porfolio.netlify.app)
 
-  ##Fun facts about me
+  ## Fun facts about me
   - I love God and trust in Him alone (Proverbs 3:5)
   - I devour a lot of literature, both scientific and religious
   - I work because I trust that it is for a greater purpose both to man and the Almighty
